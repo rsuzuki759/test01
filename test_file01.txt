@@ -1,6 +1,6 @@
 aaa
 bbb
 ccc branch2 mod
-ddd
+ddd branch2 mod2
 eee
 branch1 add
